@@ -82,9 +82,11 @@ You can visit the website via this link : [hoteltravelonline.com](hoteltravelonl
 
 ### Built With
 [![Laravel][laravel-shield]][laravel-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="20" />
-[![Stripe][laravel-shield]][laravel-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="64" />
+<br />
+<br />
+[![Stripe][stripe-shield]][stripe-url]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="64" />
 
 
 
