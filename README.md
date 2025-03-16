@@ -40,10 +40,10 @@
     <br />
     <br />
     <br />
-    
-    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    [![Report Bug][linkedin-shield]][(https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=bug&template=bug-report---.md)]
+    [![Request Feature][linkedin-shield]][(https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=enhancement&template=feature-request---.md)]
+    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=bug&template=bug-report---.md"></a>
+    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=enhancement&template=feature-request---.md"></a>
   </p>
 </div>
 
