@@ -81,12 +81,12 @@ You can visit the website via this link : [hoteltravelonline.com](hoteltravelonl
 
 
 ### Built With
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="24" />
 [![Laravel][laravel-shield]][laravel-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="64" />
 <br />
 <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="24" />
 [![Stripe][stripe-shield]][stripe-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="64" />
 
 
 
