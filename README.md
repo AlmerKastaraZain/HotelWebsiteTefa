@@ -72,8 +72,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Proyek ini dibuat dalam rangka program TEFA (Teaching Factory) dengan tujuan menciptakan sebuah marketplace hybrid yang menggabungkan fitur pemesanan layanan (seperti Booking.com, Expedia, dan Traveloka) untuk booking hotel. Fokus utama platform ini adalah memasarkan produk lokal Indonesia ke pasar Australia serta menyediakan layanan pemesanan akomodasi dan jasa terkait.
+This project was created within the framework of the TEFA (Teaching Factory) program with the aim of creating a hybrid marketplace that combines the features of booking services (such as Booking.com, Expedia, and Traveloka) for hotel bookings. The main focus of this platform is to market local Indonesian products to the Australian market as well as provide accommodation booking services and related services.
 
 You can visit the website via this link : [hoteltravelonline.com](hoteltravelonline.com)
 
@@ -82,7 +81,8 @@ You can visit the website via this link : [hoteltravelonline.com](hoteltravelonl
 
 
 ### Built With
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Laravel][laravel-shield]][laravel-url]
+[![Stripe][laravel-shield]][laravel-url]
 
 
 
@@ -131,7 +131,7 @@ See the [open issues](https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issue
 <!-- CONTRIBUTING -->
 ## Contribution
 
-Almer kastara zain
+Almer kastara zain - Fullstack Developer
 
 <!-- CONTACT -->
 ## Contact
@@ -170,3 +170,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/almer-kastara-zain-5b5704333/
 [product-screenshot]: images/screenshot.png
+
+[laravel-shield]: https://img.shields.io/badge/-Laravel-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[laravel-url]: https://www.laravel.com
+
+[stripe-shield]: https://img.shields.io/badge/-Stripe-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[stripe-url]: https://www.stripe.com
