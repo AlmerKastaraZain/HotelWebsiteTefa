@@ -82,7 +82,9 @@ You can visit the website via this link : [hoteltravelonline.com](hoteltravelonl
 
 ### Built With
 [![Laravel][laravel-shield]][laravel-url]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" />
 [![Stripe][laravel-shield]][laravel-url]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" />
 
 
 
@@ -95,11 +97,11 @@ Processor: Dual Core 2.5 GHz or higher <br />
 RAM: 2GB or more <br />
 
 # Software Requirement
-[PHP versi 8.2](https://www.php.net/)
-[Composer versi 2.7.8 or above](https://getcomposer.org/)
-[MySQL](https://www.mysql.com/)
-[Stripe CLI](https://docs.stripe.com/stripe-cli)
-[Node js v20.17.0](https://nodejs.org/en)
+[PHP versi 8.2](https://www.php.net/) <br />
+[Composer versi 2.7.8 or above](https://getcomposer.org/)<br />
+[MySQL](https://www.mysql.com/)<br />
+[Stripe CLI](https://docs.stripe.com/stripe-cli)<br />
+[Node js v20.17.0](https://nodejs.org/en)<br />
 
 # API Key needed (To Fill out the ENV)
 Google Maps API Key
