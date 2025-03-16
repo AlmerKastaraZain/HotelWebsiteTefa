@@ -24,13 +24,11 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/AlmerKastaraZain/Wave-Survival-Game">  
-    <img src="https://github.com/user-attachments/assets/90f6972b-df53-4f65-b56c-5095ce0b9ced" width="80px" height="80px" />
+    <img src="https://github.com/user-attachments/assets/93602e11-5064-4fa8-b2d6-a7d7a568a362" width="80px" height="80px" />
   </a>
 
   <h3 align="center">Hotel Booking Online</h3>
