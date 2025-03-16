@@ -82,9 +82,9 @@ You can visit the website via this link : [hoteltravelonline.com](hoteltravelonl
 
 ### Built With
 [![Laravel][laravel-shield]][laravel-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="20" />
 [![Stripe][laravel-shield]][laravel-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" width="20" />
 
 
 
@@ -145,15 +145,6 @@ Almer Kastara Zain - almerkastaraaasli@gmail.com
 ## Developer Note
 
 The current status of this website is incomplete. Due to time constraint, I am to realize this website fully, currently there is a lot of bugs, unfinished features, and legacy code.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* Ahmad Varian Sholeh | Animasi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
