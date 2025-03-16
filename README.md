@@ -27,8 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AlmerKastaraZain/Wave-Survival-Game">  
-    <img src="https://github.com/user-attachments/assets/93602e11-5064-4fa8-b2d6-a7d7a568a362" width="80px" height="80px" />
+  <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa">  
+    <img src="https://github.com/user-attachments/assets/9f2edd4d-2906-47ee-8c67-da156e820882" width="80px" height="80px" />
   </a>
 
   <h3 align="center">Hotel Booking Online</h3>
