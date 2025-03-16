@@ -114,8 +114,9 @@ Membership Prod and Price Id (Create it using Stripe)
 2. Extract Zip
 3. Create .env using .env.example and fill out API key, along with other config...
 4. Run ```php artisan key:generate``` in terminal
-5. Run ```npm install```, to install the necessary node dependencies. Make sure to install NPM.
-6. Run ```composer install```, to install the necessary composer dependencies. Make sure to install Composer.
+5. Run ```php artisan migrate --seed``` or ```php artisan migrate:fresh --seed``` in terminal
+6. Run ```npm install```, to install the necessary node dependencies. Make sure to install NPM.
+7. Run ```composer install```, to install the necessary composer dependencies. Make sure to install Composer.
 
 ### Running The Website
 1. Run ```php artisan serve```
