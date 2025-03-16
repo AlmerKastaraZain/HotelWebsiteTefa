@@ -40,8 +40,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=bug&template=bug-report---.md"></a>
-    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=enhancement&template=feature-request---.md"></a>
+    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=bug&template=bug-report---.md">Report a Bug</a>
+      -
+    <a href="https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issues/new?labels=enhancement&template=feature-request---.md">Request Features</a>
   </p>
 </div>
 
@@ -72,10 +73,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/user-attachments/assets/3048eb4b-f531-4012-b0c8-dbbe48882492)
-![image](https://github.com/user-attachments/assets/3b34da8c-1e20-43d8-985a-7e12cf24d839)
+Proyek ini dibuat dalam rangka program TEFA (Teaching Factory) dengan tujuan menciptakan sebuah marketplace hybrid yang menggabungkan fitur pemesanan layanan (seperti Booking.com, Expedia, dan Traveloka) untuk booking hotel. Fokus utama platform ini adalah memasarkan produk lokal Indonesia ke pasar Australia serta menyediakan layanan pemesanan akomodasi dan jasa terkait.
 
-Operasi Merah Putih adalah sebuah game bergenre sejarah aksi yang membawa pemain ke masa penting dalam sejarah Indonesia, yakni perlawanan terhadap pemberontakan Partai Komunis Indonesia (PKI). Game ini dirancang untuk memberikan pengalaman mendalam tentang semangat perjuangan mempertahankan kedaulatan negara, dengan narasi yang berlandaskan fakta sejarah namun dikemas dalam gameplay yang menarik dan penuh aksi.
+You can visit the website via this link : [hoteltravelonline.com](hoteltravelonline.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,18 +129,9 @@ See the [open issues](https://github.com/AlmerKastaraZain/HotelWebsiteTefa/issue
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Almer kastara zain
 
 <!-- CONTACT -->
 ## Contact
